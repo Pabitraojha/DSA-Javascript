@@ -107,24 +107,28 @@ Each solution contains:
 
 # 🗺️ Learning Roadmap
 
-- [ ] Arrays
-- [ ] Strings
-- [ ] Hashing
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Binary Search
-- [ ] Recursion
-- [ ] Linked List
-- [ ] Stack
-- [ ] Queue
-- [ ] Trees
-- [ ] Graphs
-- [ ] Heap
-- [ ] Greedy
-- [ ] Backtracking
-- [ ] Dynamic Programming
-- [ ] Trie
-- [ ] Bit Manipulation
+# 🗺️ DSA Roadmap
+
+- [ ] 01. Basic Programming
+- [ ] 02. Arrays
+- [ ] 03. Strings
+- [ ] 04. Searching (Linear & Binary Search)
+- [ ] 05. Sorting
+- [ ] 06. Recursion
+- [ ] 07. Hashing
+- [ ] 08. Two Pointers
+- [ ] 09. Linked List
+- [ ] 10. Stack
+- [ ] 11. Queue
+- [ ] 12. Heap / Priority Queue
+- [ ] 13. Trees
+- [ ] 14. Graphs
+- [ ] 15. Slidding Window
+- [ ] 16. Greedy
+- [ ] 17. Backtracking
+- [ ] 18. Dynamic Programming
+- [ ] 19. Trie
+- [ ] 20. Bit Manipulation
 
 ---
 
