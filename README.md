@@ -19,19 +19,21 @@ This repository contains my solutions to DSA problems solved in **JavaScript**, 
 
 | Topic | Solved | Target |
 |-------|:------:|:------:|
+| Basic Questions| 0 | 50|
 | Arrays | 0 | 40 |
 | Strings | 0 | 30 |
-| Hashing | 0 | 25 |
+| Searching | 0 | 25|
+| Sorting | 0 | 25 |
+| Recursion | 0 | 20 |
 | Two Pointers | 0 | 20 |
-| Sliding Window | 0 | 20 |
-| Binary Search | 0 | 25 |
-| Recursion | 0 | 20 | 
 | Linked List | 0 | 30 |
 | Stack | 0 | 20 | 
-| Queue | 0 | 15 | 
+| Queue | 0 | 15 |
+| Hashing | 0 | 25 |
+| Heap / Priority Queue | 0 | 15 |
 | Trees | 0 | 40 |
 | Graphs | 0 | 35 | 
-| Heap / Priority Queue | 0 | 15 |
+| Sliding Window | 0 | 20 | 
 | Greedy | 0 | 20 |
 | Dynamic Programming | 0 | 50 |
 | Backtracking | 0 | 20 |
